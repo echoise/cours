@@ -9,7 +9,7 @@
 * Objectif(s) en venant à ce cours
 
 ## Récapitulatif des Objectifs
-*HTML 
-*XP
+* HTML 
+* XP
 
 [suite](./02-ingenieur.md)
